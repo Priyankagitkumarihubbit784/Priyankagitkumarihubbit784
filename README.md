@@ -1,9 +1,13 @@
 # Hi, I'm Priyanka Kumari 👋
 
-🎓 MCA student specializing in AI & ML @ Chandigarh University  
-💻 Android Developer | Java · Python · Firebase  
-📍 Panchkula, Haryana, India  
+🎓 MCA (AI & ML) Student at Chandigarh University
 
+💻 Android Developer passionate about Mobile App Development and Artificial Intelligence
+
+🌱 Currently learning:
+- Machine Learning
+- Spring Boot
+- Data Structures & Algorithms
 ---
 
 ## 🛠 Tech Stack
