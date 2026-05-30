@@ -60,16 +60,15 @@ Implementation of graph algorithms including Minimum Spanning Tree and Shortest 
 
 ## 📊 GitHub Stats
 
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyankagitkumarihubbit784\&show_icons=true\&theme=default\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyankagitkumarihubbit784&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankagitkumarihubbit784\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankagitkumarihubbit784&layout=compact)
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Priyankagitkumarihubbit784\&theme=flat\&no-frame=true)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=Priyankagitkumarihubbit784)
 ---
 
 ## 👀 Profile Views
